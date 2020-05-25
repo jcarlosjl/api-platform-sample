@@ -5,6 +5,8 @@
         "ext-ctype": "*",
         "ext-iconv": "*",
         "api-platform/api-pack": "^1.1",
+        "behat/behat": "^3.6",
+        "behat/mink": "^1.8",
         "doctrine/doctrine-migrations-bundle": "^2.0",
         "guzzlehttp/guzzle": "^6.3",
         "lexik/jwt-authentication-bundle": "^2.6",
@@ -17,6 +19,7 @@
     },
     "require-dev": {
         "api-platform/schema-generator": "^2.1",
+        "friends-of-behat/symfony-extension": "^2.0",
         "symfony/maker-bundle": "^1.11",
         "symfony/profiler-pack": "^1.0"
     },
